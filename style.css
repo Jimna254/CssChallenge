@@ -74,7 +74,7 @@ header {
   align-items: center;
   gap: 16px;
   padding: 16px;
- font-weight: 600;
+  font-weight: 600;
   border: none;
   border-radius: 6px;
   background: #41b9ff;
@@ -371,7 +371,7 @@ header {
   background: var(--white);
   border: 1px solid var(--blue);
   border-radius: 9px;
-  padding: 10%;
+  padding: 5%;
   height: 50%;
 }
 .pricing-features {
@@ -662,8 +662,6 @@ footer {
   color: #41b9ff;
 }
 
-
-
 @media (max-width: 575.98px) and (max-width: 991.98px) {
   /* Add specific styles for extra small devices (mobile phones - portrait) */
   .nav-links {
@@ -717,4 +715,3 @@ footer {
   width: 20%;
   padding: 10px;
 }
-
